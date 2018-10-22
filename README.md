@@ -1,2 +1,2 @@
 # pro
-This is an attempt to make a pull request for hacktoberfest.
+This is an attempt to make a pul request
